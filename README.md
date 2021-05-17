@@ -2,7 +2,7 @@
 
 I am Florian 🧑‍💻
 
-- 🔭 I am currently working on regional data visualization
+- 🔭 I am currently working with regional data
 - 🌱 I am currently learning Python, ML
 - 🤔 I am looking for help with GeoPandas, Dash/Plotly
 
