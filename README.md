@@ -3,7 +3,7 @@
 I am Florian 🧑‍💻
 
 - 🔭 I’m currently working on regional data visualization
-- 🌱 I’m currently learning python, ml
+- 🌱 I’m currently learning Python, ML
 - 🤔 I’m looking for help with geopandas, dash/plotly
 
 Note: this profile is still under construction 🏗️ 👷, repositories can change constantly 🧭
