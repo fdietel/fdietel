@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Florian 🧑‍💻
+I am Flo 🧑‍💻
 
 - 🔭 I’m currently working on regional data visualization
 - 🌱 I’m currently learning python, ml
