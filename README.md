@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am Florian 🧑‍💻
+
+- 🔭 I’m currently working on regional data visualization
+- 🌱 I’m currently learning python, ml
+- 🤔 I’m looking for help with geopandas, dash/plotly
+
+this profile is still under construction 🏗️ 👷
+
+repositories can change constantly 🧭
+
 <!--
 **fdietel/fdietel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
