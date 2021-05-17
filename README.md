@@ -4,7 +4,7 @@ I am Florian 🧑‍💻
 
 - 🔭 I am currently working on regional data visualization
 - 🌱 I am currently learning Python, ML
-- 🤔 I am looking for help with geopandas, dash/plotly
+- 🤔 I am looking for help with GeoPandas, Dash/Plotly
 
 Note: this profile is still under construction 🏗️ 👷, repositories can change constantly 🧭
 
