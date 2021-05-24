@@ -2,8 +2,8 @@
 
 I am Florian 🧑‍💻
 
-- 🔭 I am currently working with regional data
-- 🌱 I am currently learning Python, basic ML
+- 🔭 I am currently working with regional data, Python
+- 🌱 I am currently learning basic ML
 - 🤔 I am looking for help with GeoPandas, Dash/Plotly
 
 Note: this profile is still under construction 🏗️ 👷, repositories can change constantly 🧭
